@@ -1,0 +1,9 @@
+{
+ "name": "REST API",
+ "version": "1.0.0",
+ "description": "REST API show",
+ "title": "REST API",
+ "url1" : "http://localhost:8090",
+ "url2": "http://localhost:8091"
+}
+
